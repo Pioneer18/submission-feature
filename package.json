@@ -1,0 +1,22 @@
+{
+  "name": "submission-feature",
+  "version": "1.0.0",
+  "description": "demonstration of interface layer for CG FMVMD backend",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pioneer18/submission-feature.git"
+  },
+  "author": "Jonathan Sells",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pioneer18/submission-feature/issues"
+  },
+  "homepage": "https://github.com/Pioneer18/submission-feature#readme"
+}
